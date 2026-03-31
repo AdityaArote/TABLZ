@@ -1,0 +1,14 @@
+{
+  "name": "@tablz/shared",
+  "version": "0.1.0",
+  "description": "Shared TypeScript types and utilities for TABLZ platform",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc -w"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

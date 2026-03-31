@@ -1,0 +1,10 @@
+{
+  "permission": {
+    "read": {
+      "D:/code/Project/tablez-demo2-allByAi/.opencode/get-shit-done/*": "allow"
+    },
+    "external_directory": {
+      "D:/code/Project/tablez-demo2-allByAi/.opencode/get-shit-done/*": "allow"
+    }
+  }
+}
